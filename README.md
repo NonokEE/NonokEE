@@ -18,6 +18,15 @@
 </table>
 <br>
 
+<!--Context:Main Project-->
+<h3 align="center">🛠️ IN PROGRESS 🛠️</h3>
+<div align="center">
+  <a href="https://github.com/NonokEE/Shooting_Platformer">
+    <img src="https://img.shields.io/badge/shooting%20flatformer-666666.svg?style=for-the-badge" />&nbsp
+  </a>
+</div>
+<br>
+
 <!--Context:Langs-->
 <h3 align="center">🖥️ SKILLS 🖥️</h3>
 <div align="center">
@@ -35,8 +44,7 @@
 <br>
 
 <!--Context:Tools-->
-<!-- 깃 소스트리 크라켄 깃허브 빗버킷 슬랙 VSCODE 노션-->
-<h3 align="center">🔧 TOOLS 🔧</h3>
+<h3 align="center">🧰 TOOLS 🧰</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
