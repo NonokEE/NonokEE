@@ -27,12 +27,13 @@
 </div>
 <br>
 
-<!--Context:Langs-->
+<!--Context:Skills-->
 <h3 align="center">🖥️ SKILLS 🖥️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/csharp-00599C.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/cpp-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
