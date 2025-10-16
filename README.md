@@ -21,8 +21,8 @@
 <!--Context:Main Project-->
 <h3 align="center">🛠️ IN PROGRESS 🛠️</h3>
 <div align="center">
-  <a href="https://github.com/NonokEE/Shooting_Platformer">
-    <img src="https://img.shields.io/badge/shooting%20flatformer-666666.svg?style=for-the-badge" />&nbsp
+  <a href="https://github.com/NonokEE/2D_SideView_Skeleton">
+    <img src="https://img.shields.io/badge/2D%20SideView%20Skeleton-666666.svg?style=for-the-badge" />&nbsp
   </a>
 </div>
 <br>
