@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/NonokEE">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokEE&hide=jupyter%20notebook,hlsl,glsl,shaderlab,qmake&theme=dark&layout=compact&hide_border=true&cache_seconds=1800" alt="Nonok's github stats"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NonokEE&hide=jupyter%20notebook,hlsl,glsl,shaderlab,qmake&theme=dark&layout=compact&hide_border=true&cache_seconds=1800" alt="Nonok's github stats"/>
       </a>
     </td>
     <td align="center">
