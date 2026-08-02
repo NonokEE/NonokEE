@@ -57,6 +57,7 @@
 <!--Context:Infrastructure & Tools-->
 <h3 align="center">🧰 INFRASTRUCTURE & TOOLS 🧰</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Hermes%20Agent-FFD700.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/langsmith-FF6600.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
